@@ -1,0 +1,85 @@
+.first{
+    display: block;
+}
+.floatRight{
+    float: right;
+    margin-right: 100px;
+    
+}
+.floatleft{
+    float: left;
+    margin-left: 100px;
+}
+#line2{
+    display:flow-root;
+    margin-top: 100px;
+    clear: both;
+
+}
+.o2{
+    margin-left: 100px;
+}
+.rmUnderline{
+    text-decoration: none;
+}
+
+.w3-dropdown-hover {
+    position: relative;
+    float: left;
+
+}
+.showDrop{
+    
+    text-align: center;
+    z-index: 1;
+    position: relative;
+    display: inline;
+    
+}
+ul>div{
+    color: rgb(29, 10, 197);
+    font-size: large;
+    font-weight: bold;
+}
+
+.img2{
+    background-image: url('https://www.o2.co.uk/documents/456036/5832146/billboard-xxl-2000-right-dark-230822.jpg/9d7aa6a3-8717-52a2-a24a-9c2484a7de4c?t=1661518664401'); min-height: 100%; background-repeat: no-repeat center center;  width: 100%;
+      
+}
+.img1{
+    background-image: url('https://www.o2.co.uk/documents/456036/5702645/switch-up-interim-headersuper-xxl-574x2-210722.jpg/20272aee-c630-8318-fcb3-759b74248e60?t=1658473436635'); min-height: 100%; background-repeat: no-repeat center center;  width: 100%; padding: 20%;
+      
+}
+
+.rr {
+    margin-top: 10%;
+    margin-right: 25%;
+    color: black;
+}
+
+p{
+    margin-right: 20%;
+    color: black;
+}
+.alert {
+  padding: 10px;
+  background-color:#0ae9e1;
+  color: white;
+}
+.closebtn {
+  margin-left: 15px;
+  color: white;
+  font-weight: bold;
+  float: right;
+  font-size: 22px;
+  line-height: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.closebtn:hover {
+  color: black;
+}
+.line1L{
+    margin-right: 100px;
+}
